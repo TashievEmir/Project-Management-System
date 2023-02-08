@@ -1,0 +1,72 @@
+E:\RepeatC#\Project Management System\bin\Debug\Project Management System.exe.config
+E:\RepeatC#\Project Management System\bin\Debug\Project Management System.exe
+E:\RepeatC#\Project Management System\bin\Debug\Project Management System.pdb
+E:\RepeatC#\Project Management System\obj\Debug\Project Management System.csproj.AssemblyReference.cache
+E:\RepeatC#\Project Management System\obj\Debug\Project Management System.csproj.SuggestedBindingRedirects.cache
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Form1.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Properties.Resources.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project Management System.csproj.GenerateResource.cache
+E:\RepeatC#\Project Management System\obj\Debug\Project Management System.csproj.CoreCompileInputs.cache
+E:\RepeatC#\Project Management System\obj\Debug\Project Management System.exe
+E:\RepeatC#\Project Management System\obj\Debug\Project Management System.pdb
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Form_Proje.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project Management System.exe.licenses
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Data.v22.1.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Utils.v22.1.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.XtraBars.v22.1.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Data.v22.1.xml
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Utils.v22.1.xml
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.XtraBars.v22.1.xml
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\RepeatC#\Project Management System\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+E:\RepeatC#\Project Management System\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\RepeatC#\Project Management System\obj\Debug\Project Management System.csproj.CopyComplete
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Form_KapsamProjectTask.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Form_RegistrationEmployee.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Form_CreateProject.resources
+E:\RepeatC#\Project Management System\bin\Debug\EntityFramework.dll
+E:\RepeatC#\Project Management System\bin\Debug\EntityFramework.SqlServer.dll
+E:\RepeatC#\Project Management System\bin\Debug\EntityFramework.xml
+E:\RepeatC#\Project Management System\bin\Debug\EntityFramework.SqlServer.xml
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Migrations.InitialCreate.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Migrations.PersonProject.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Migrations.update.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Migrations.updates2.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Migrations.updates3.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Migrations.add_treeview_tables.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.TreeView.CreateTreeView.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.TreeView.Form_TreeView.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Migrations.addpersonphoneNumandmail.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.Migrations.changetypeofphonenumber.resources
+E:\RepeatC#\Project Management System\obj\Debug\Project_Management_System.PhoneNumbers.Form_PhoneNumbers.resources
